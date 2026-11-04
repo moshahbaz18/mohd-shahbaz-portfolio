@@ -34,23 +34,23 @@ I am a passionate Fresher Frontend Developer. I enjoy creating modern, responsiv
 
 Clone the repository:
 
-"git clone YOUR_GITHUB_REPOSITORY_URL"
+git clone YOUR_GITHUB_REPOSITORY_URL
 
 Go to the project folder:
 
-"cd YOUR_PROJECT_FOLDER"
+cd YOUR_PROJECT_FOLDER
 
 Install dependencies:
 
-"npm install"
+npm install
 
 Run the project:
 
-"npm run dev"
+npm run dev
 
 Build for production:
 
-"npm run build"
+npm run build
 
 📬 Contact & Social Links
 
