@@ -34,15 +34,17 @@ I am a passionate Fresher Frontend Developer. I enjoy creating modern, responsiv
 
 Clone the repository:
 
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/moshahbaz18/mohd-shahbaz-portfolio.git
 
 Go to the project folder:
 
-cd YOUR_PROJECT_FOLDER
+cd mohd-shahbaz-portfolio
 
 Install dependencies:
 
 npm install
+npm run dev
+npm run build
 
 Run the project:
 
