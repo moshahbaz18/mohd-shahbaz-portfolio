@@ -8,7 +8,7 @@ Welcome to my personal portfolio website!
 
 👨‍💻 About Me
 
-I am a passionate Fresher Frontend Developer. I enjoy creating modern, responsive and user-friendly websites.
+I am a passionate Fresher Frontend Developer. I enjoy creating modern, responsive and user-friendly websites using modern web technologies.
 
 🛠️ Technical Skills
 
@@ -29,35 +29,42 @@ I am a passionate Fresher Frontend Developer. I enjoy creating modern, responsiv
 - Resume
 - Contact
 - Responsive Design
+- Modern User Interface
 
 💻 Installation
 
-Clone the repository:
+1. Clone the repository
 
 git clone https://github.com/moshahbaz18/mohd-shahbaz-portfolio.git
 
-Go to the project folder:
+2. Open project folder
 
 cd mohd-shahbaz-portfolio
 
-Install dependencies:
+3. Install dependencies
 
 npm install
-npm run dev
-npm run build
 
-Run the project:
+4. Start development server
 
 npm run dev
 
-Build for production:
+5. Build for production
 
 npm run build
+
+6. Preview production build
+
+npm run preview
 
 📬 Contact & Social Links
 
-- GitHub: https://github.com/moshahbaz18
-- LinkedIn: https://linkedin.com/in/mohd-shabaz-879a482b1
-- Portfolio: https://mohd-shahbaz-portfolio.vercel.app
+- GitHub: "moshahbaz18" (https://github.com/moshahbaz18)
+- LinkedIn: "Mohd Shabaz" (https://linkedin.com/in/mohd-shabaz-879a482b1)
+- Portfolio: "Visit Website" (https://mohd-shahbaz-portfolio.vercel.app)
+
+---
 
 Thank you for visiting my portfolio!
+
+⭐ If you like my work, feel free to explore my projects.
