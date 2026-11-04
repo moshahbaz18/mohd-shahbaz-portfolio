@@ -1,16 +1,61 @@
-# React + Vite
+Mohd Shabaz | Frontend Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Welcome to my personal portfolio website!
 
-Currently, two official plugins are available:
+🌐 Live Website
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+"Visit My Portfolio" (https://mohd-shahbaz-portfolio.vercel.app)
 
-## React Compiler
+👨‍💻 About Me
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+I am a passionate Fresher Frontend Developer. I enjoy creating modern, responsive and user-friendly websites.
 
-## Expanding the Oxlint configuration
+🛠️ Technical Skills
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Bootstrap
+- Java
+- MySQL
+- Git & GitHub
+
+🚀 Portfolio Features
+
+- About Me
+- Skills
+- Projects
+- Resume
+- Contact
+- Responsive Design
+
+💻 Installation
+
+Clone the repository:
+
+"git clone YOUR_GITHUB_REPOSITORY_URL"
+
+Go to the project folder:
+
+"cd YOUR_PROJECT_FOLDER"
+
+Install dependencies:
+
+"npm install"
+
+Run the project:
+
+"npm run dev"
+
+Build for production:
+
+"npm run build"
+
+📬 Contact & Social Links
+
+- GitHub: https://github.com/moshahbaz18
+- LinkedIn: https://linkedin.com/in/mohd-shabaz-879a482b1
+- Portfolio: https://mohd-shahbaz-portfolio.vercel.app
+
+Thank you for visiting my portfolio!
